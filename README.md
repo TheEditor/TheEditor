@@ -13,6 +13,10 @@ I build tools that turn prompts into production software. My work sits at the in
 
 Think of it like geological layers: creation at the base, infrastructure on top, then iteration, deployment, monetization, and operations — each one stacking to reduce friction between *idea* and *shipped product*.
 
+#### 🤝 Collaborations
+
+Contributor to [**Guideboard Labs**](https://github.com/GuideboardLabs) — a one-person workshop building local-first AI infrastructure. My [`repo-review`](https://github.com/TheEditor/repo-review) series serves as their official project auditor, and I've contributed to [Oathweaver](https://github.com/GuideboardLabs/oathweaver), their hardened local-only AI workbench.
+
 ---
 
 #### 🔧 What I'm Building
@@ -37,10 +41,6 @@ AI           Claude · vibe coding workflows
 |------|-------------|
 | [`misc_coding_agent_tips_and_scripts`](https://github.com/TheEditor/misc_coding_agent_tips_and_scripts) | Practical patterns for AI-assisted dev |
 | [`repo-review`](https://github.com/TheEditor/repo-review) | Not code reviews. Taste reviews. |
-
-#### 🤝 Collaborations
-
-Contributor to [**Guideboard Labs**](https://github.com/GuideboardLabs) — a one-person workshop building local-first AI infrastructure. My [`repo-review`](https://github.com/TheEditor/repo-review) series serves as their official project auditor, and I've contributed to [Oathweaver](https://github.com/GuideboardLabs/oathweaver), their hardened local-only AI workbench.
 
 ---
 
