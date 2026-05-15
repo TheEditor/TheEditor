@@ -37,10 +37,15 @@ AI           Claude · vibe coding workflows
 |------|-------------|
 | [`misc_coding_agent_tips_and_scripts`](https://github.com/TheEditor/misc_coding_agent_tips_and_scripts) | Practical patterns for AI-assisted dev |
 |[`repo-review`](https://github.com/TheEditor/repo-review)|Not code reviews. Taste reviews.|
+
 ---
 
 <div align="center">
 
+<img src="./murphy.jpeg" width="80" style="border-radius:50%" alt="Murphy" />
+<br/>
+<sub>In memory of Murphy 🐾</sub>
+<br/><br/>
 <sub>Michigan · building digital earth, one layer at a time</sub>
 
 </div>
