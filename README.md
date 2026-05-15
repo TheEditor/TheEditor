@@ -55,9 +55,8 @@ Think of it like geological layers: creation at the base, infrastructure on top,
 
 A full ecosystem for **vibe coding** — going from natural language to deployed app with minimal friction. Current focus areas:
 
-- **Secrets management** — programmatic, automation-first credential handling
-- **Infrastructure orchestration** — automated provisioning of databases, repos, environments
-- **Deployment pipelines** — one-command publish to production
+- **Repo Review** — A series of prompts for producing deep, taste-oriented analyses of codebases..
+
 
 #### 🛠 Stack & Tools
 
@@ -73,15 +72,11 @@ AI           Claude · vibe coding workflows
 | Repo | What it does |
 |------|-------------|
 | [`misc_coding_agent_tips_and_scripts`](https://github.com/TheEditor/misc_coding_agent_tips_and_scripts) | Practical patterns for AI-assisted dev |
-| [`agwakwagan`](https://github.com/TheEditor/agwakwagan) | Kanban board app (TypeScript) |
-| [`keyp`](https://github.com/TheEditor/keyp) | Key management utility (Go) |
-| [`maajise`](https://github.com/TheEditor/maajise) | CLI tool (Go) |
-| [`strung`](https://github.com/TheEditor/strung) | String utilities (Go) |
-
+||Not code reviews. Taste reviews.|
 ---
 
 <div align="center">
 
-<sub>Detroit, MI · building digital earth, one layer at a time</sub>
+<sub>Michigan · building digital earth, one layer at a time</sub>
 
 </div>
