@@ -15,7 +15,7 @@ Think of it like geological layers: creation at the base, infrastructure on top,
 
 #### 🤝 Collaborations
 
-Contributor to [**Guideboard Labs**](https://github.com/GuideboardLabs) — a one-person workshop building local-first AI infrastructure. My [`repo-review`](https://github.com/TheEditor/repo-review) series serves as their official project auditor, and I've contributed to [Oathweaver](https://github.com/GuideboardLabs/oathweaver), their hardened local-only AI workbench.
+Contributor to [**Guideboard Labs**](https://github.com/GuideboardLabs) — a workshop building local-first AI infrastructure. My [`repo-review`](https://github.com/TheEditor/repo-review) series serves as their official project auditor, and I've contributed to [Oathweaver](https://github.com/GuideboardLabs/oathweaver), their hardened local-only AI workbench.
 
 ---
 
