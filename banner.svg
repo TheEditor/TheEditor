@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 200" width="840" height="200">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1a4d6d"/>
+      <stop offset="100%" stop-color="#2b2d2f"/>
+    </linearGradient>
+    <linearGradient id="earth" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2d5016"/>
+      <stop offset="100%" stop-color="#1a3a0e"/>
+    </linearGradient>
+    <clipPath id="banner">
+      <rect x="0" y="0" width="840" height="200" rx="8"/>
+    </clipPath>
+  </defs>
+  <!-- Background -->
+  <rect width="840" height="200" rx="8" fill="url(#sky)" clip-path="url(#banner)"/>
+  <!-- Earth/hill curve -->
+  <path d="M0,140 Q210,95 420,120 Q630,145 840,100 L840,200 L0,200 Z" fill="url(#earth)" opacity="0.9"/>
+  <!-- Strata lines (ecosystem layers metaphor) -->
+  <path d="M0,160 Q210,135 420,150 Q630,165 840,130" fill="none" stroke="#b87333" stroke-width="1" opacity="0.4"/>
+  <path d="M0,175 Q210,155 420,165 Q630,175 840,155" fill="none" stroke="#b87333" stroke-width="1" opacity="0.25"/>
+  <path d="M0,190 Q210,175 420,182 Q630,190 840,178" fill="none" stroke="#b87333" stroke-width="1" opacity="0.15"/>
+  <!-- Stars/dots -->
+  <circle cx="120" cy="35" r="1.5" fill="#f5f1ed" opacity="0.6"/>
+  <circle cx="340" cy="22" r="1" fill="#f5f1ed" opacity="0.4"/>
+  <circle cx="560" cy="40" r="1.2" fill="#f5f1ed" opacity="0.5"/>
+  <circle cx="720" cy="28" r="1" fill="#f5f1ed" opacity="0.35"/>
+  <circle cx="200" cy="55" r="0.8" fill="#f5f1ed" opacity="0.3"/>
+  <circle cx="480" cy="48" r="1" fill="#f5f1ed" opacity="0.45"/>
+  <circle cx="650" cy="55" r="0.8" fill="#f5f1ed" opacity="0.3"/>
+  <!-- Maroon accent bar at top -->
+  <rect x="0" y="0" width="840" height="4" fill="#6a0032" rx="2"/>
+  <!-- Text -->
+  <text x="420" y="78" text-anchor="middle" fill="#f5f1ed" font-family="monospace" font-size="14" letter-spacing="6" opacity="0.7">B U I L D I N G · W O R L D S · F R O M · W O R D S</text>
+</svg>
