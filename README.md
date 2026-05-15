@@ -36,7 +36,11 @@ AI           Claude · vibe coding workflows
 | Repo | What it does |
 |------|-------------|
 | [`misc_coding_agent_tips_and_scripts`](https://github.com/TheEditor/misc_coding_agent_tips_and_scripts) | Practical patterns for AI-assisted dev |
-|[`repo-review`](https://github.com/TheEditor/repo-review)|Not code reviews. Taste reviews.|
+| [`repo-review`](https://github.com/TheEditor/repo-review) | Not code reviews. Taste reviews. |
+
+#### 🤝 Collaborations
+
+Contributor to [**Guideboard Labs**](https://github.com/GuideboardLabs) — a one-person workshop building local-first AI infrastructure. My [`repo-review`](https://github.com/TheEditor/repo-review) series serves as their official project auditor, and I've contributed to [Oathweaver](https://github.com/GuideboardLabs/oathweaver), their hardened local-only AI workbench.
 
 ---
 
